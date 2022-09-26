@@ -6,24 +6,61 @@
 
 .contenedor{
     display: grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr 350px;
+    background-image: url("./696295.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    
 }
+
 .contenedor1{
-    background-color: beige;
-    padding: 50px;
+    
+    color: azure;
+    padding: 30px;
+    text-align: center;
+   line-height: 40px;
+    
 }
 
 .contenedor2{
-    background-color:azure;
-    padding: 70px;
+   
+
+}
+
+
+   
+
+
+.contenedor3{
+    
+    padding: 30px;
+    text-align: center;
+   line-height: 40px;
+   
+   color: azure;
+
+  
+    
+
+}
+
+.contenedor4{
+    
+    padding: 30px;
+    
+    text-align: center;
+   line-height: 40px;
+   
+   color: azure;
+
 }
 
 .imagen{
-    width: 200px;
+    width: 300px;
     display: block;
     margin: 10px auto;  
     }
 
-h1{
-    text-align: center;
-}
