@@ -12,49 +12,27 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-   
-    
 }
 
 .contenedor1{
-    
     color: azure;
     padding: 30px;
     text-align: center;
-   line-height: 40px;
-    
+    line-height: 40px;
 }
-
-.contenedor2{
-   
-
-}
-
-
-   
-
 
 .contenedor3{
-    
     padding: 30px;
     text-align: center;
-   line-height: 40px;
-   
-   color: azure;
-
-  
-    
-
+    line-height: 40px;
+    color: azure;
 }
 
 .contenedor4{
-    
     padding: 30px;
-    
     text-align: center;
-   line-height: 40px;
-   
-   color: azure;
+    line-height: 40px;
+    color: azure;
 
 }
 
